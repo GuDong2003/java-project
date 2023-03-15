@@ -1,11 +1,12 @@
 /*
  * @Author: 胡顺其
- * @Date: 2023-03-15 15:45:11
- * @LastEditTime: 2023-03-15 17:58:32
+ * @Date: 2023-03-15 17:52:57
+ * @LastEditTime: 2023-03-15 18:19:51
  * @LastEditors: 胡顺其
  * @Description: 学号2021105220116
- * 版权所有（只是一个格式而已）
+ * Copyright (c) 2023 by 咕咚，All Rights Reserved.
  */
+
 import java.util.Scanner;
 
 public class nianyueri {
