@@ -1,11 +1,12 @@
 /*
  * @Author: 咕咚
- * @Date: 2023-03-15 17:52:57
- * @LastEditTime: 2023-03-15 23:46:10
+ * @Date: 2023-03-16 00:33:03
+ * @LastEditTime: 2023-03-16 00:33:16
  * @LastEditors: 咕咚
- * @Description: 测试
+ * @Description: LOVE YOURSELF IN YOUR IMAGINATION~
  * Copyright (c) 2023 by 咕咚，All Rights Reserved.
  */
+
 import java.util.Scanner;
 
 public class nianyueri {
