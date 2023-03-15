@@ -1,11 +1,12 @@
 /*
- * @Author: 胡顺其
- * @Date: 2023-03-15 08:16:48
- * @LastEditTime: 2023-03-15 17:56:57
- * @LastEditors: 胡顺其
- * @Description: 学号2021105220116
- * 版权所有（只是一个格式而已）
+ * @Author: 咕咚
+ * @Date: 2023-03-15 17:56:36
+ * @LastEditTime: 2023-03-15 18:34:47
+ * @LastEditors: 咕咚
+ * @Description: 
+ * Copyright (c) 2023 by 咕咚，All Rights Reserved.
  */
+
 import java.util.Scanner;
 
 public class sanshubidaxiao {
