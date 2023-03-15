@@ -19,6 +19,7 @@ public class sanshubidaxiao {
         num2 = sc.nextInt();
         System.out.println("请输入第三个整数：");
         num3 = sc.nextInt();
+        sc.close();
         if (num1 > num2)
             max = num1;
         else

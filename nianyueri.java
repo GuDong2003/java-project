@@ -20,6 +20,7 @@ public class nianyueri {
         if (month > 12 || month < 1) {
             System.out.println("请输入有效月份：");
             month = sc.nextInt();
+            sc.close();
         }
         switch (month) {
             case 2:

@@ -1,7 +1,7 @@
 /*
  * @Author: 咕咚
  * @Date: 2023-03-16 00:33:03
- * @LastEditTime: 2023-03-16 00:33:29
+ * @LastEditTime: 2023-03-16 00:41:25
  * @LastEditors: 咕咚
  * @Description: LOVE YOURSELF IN YOUR IMAGINATION~
  * Copyright (c) 2023 by 咕咚，All Rights Reserved.
@@ -19,6 +19,7 @@ public class ScorePanduan {
         if (score > 100 || score < 0) {
             System.out.println("请输入有效成绩:");
             score = sc.nextInt();
+            sc.close();
 
         }
 
